@@ -14,4 +14,4 @@
 **Admin Giriş Ekranı** </br>
 <img width="268" alt="Admin Giriş" src="https://github.com/user-attachments/assets/a95935c9-7742-4c21-b45b-9e4350d16381">
 <img width="359" alt="admin" src="https://github.com/user-attachments/assets/9dd9f206-677f-4985-8ba9-24a6c305ae9b"> </br> 
-*Yukarıdaki görseller uygulamaya admin olarak giriş yapmak isteyen kişini karşılaşacağı ekranları göstermektedir. İlk görselde admin kullanıcı adı ve şifresiyle birlikte giriş yapabilmektedir. Burada önemli olan nokta yapmak istediği işlemi seçebilmektedir. Admin kullanıcısının seçebileceği üç adet seçenek mevcuttur. Bunlar: PC Bakımı, Log ve Zimmet şeklindedir. Admin seçtiği işlem sonrasında ilgili ekrana yönlendirilir.*</br>
+*Yukarıdaki görseller uygulamaya admin olarak giriş yapmak isteyen kişini karşılaşacağı ekranları göstermektedir. İlk görselde admin kullanıcı adı ve şifresiyle birlikte giriş yapabilmektedir. Burada önemli olan nokta, admin yapmak istediği işlemi seçebilmektedir. Admin kullanıcısının seçebileceği üç adet seçenek mevcuttur. Bunlar: PC Bakımı, Log ve Zimmet şeklindedir. Admin seçtiği işlem sonrasında ilgili ekrana yönlendirilir.*</br>
