@@ -61,7 +61,7 @@ bulunan filtrele butonu sayesinde tarih bilgisine göre filtreleme işlemi yapı
 
 **Bilgisayar Bakım Ekranı** </br>
 <img width="267" alt="PC ID SEÇ" src="https://github.com/user-attachments/assets/9a9a4343-51e8-4607-a18e-2a40782a2d62"> </br>
-<img width="341" alt="PC Bakım Ekranı" src="https://github.com/user-attachments/assets/5b22cc50-da25-48bf-8e9e-ed3015722356"> 
+<img width="341" alt="PC Bakım Ekranı" src="https://github.com/user-attachments/assets/5b22cc50-da25-48bf-8e9e-ed3015722356"> </br>
 <img width="340" alt="Pc Bakım Ekranı Uyarı Mesajı" src="https://github.com/user-attachments/assets/baa75448-31c8-4a4d-8ee2-1b1cb0215bb9"> </br>
 *Admin kullanıcısının seçim yapabileceği bir diğer alan da bilgisayar bakım ekranıydı. PC
 Bakım seçimi yapıldıktan sonra karşımıza ilk görseldeki ekran gelmektedir. Admin burada bilgisayar
