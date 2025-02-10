@@ -46,7 +46,7 @@ yapmış olur. Yukarıdaki yenileme butonuna tıklanarak girişi yapılan malzem
 görülebilmektedir. Bu da dördüncü görselde gösterilmiştir. Stokçu olarak giriş yapan kullanıcı son olarak ‘materials’ tablosunda bulunan
 malzemelerden birini silebilmektedir. Malzemeyi silebilmek için ‘Malzeme ID’ değerini girmesi yeterli
 olacaktır. Son görselde bu işlem gösterilmiştir. Yenileme butonuna tıklayarak silme işinin
-gerçekleştiğini görebilir. </br> </br>
+gerçekleştiğini görebilir.* </br> </br>
 
 
 **Log Ekranı** </br>
